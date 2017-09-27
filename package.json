@@ -1,0 +1,38 @@
+{
+  "name": "riricolor",
+  "version": "1.0.0",
+  "description": "riri landing page",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuckleswildly/riricolor.git"
+  },
+  "keywords": [
+    "marketing",
+    "riri",
+    "hair",
+    "stylist",
+    "color"
+  ],
+  "author": "fume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuckleswildly/riricolor/issues"
+  },
+  "homepage": "https://github.com/chuckleswildly/riricolor#readme"
+}
